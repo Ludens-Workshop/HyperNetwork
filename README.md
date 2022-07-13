@@ -7,5 +7,5 @@ We aim to support -
 1. Escape From Tarkov
 2. Our Games
 3. Arma 3
-4. GTA 5
+4. GTA V
 And more!
